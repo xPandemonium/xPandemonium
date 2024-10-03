@@ -1,5 +1,5 @@
 # Projects
 This folder showcases projects I have completed.
 ## Contents
-* [Project 1](project_1)
+* [Game of Thrones Fanpage](projects/game of thrones fanpage.html)
 * [Project 2](project_2)
