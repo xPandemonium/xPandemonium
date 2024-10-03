@@ -1,4 +1,4 @@
-# My Personal Porfolio
+# My Personal Portfolio
 
 ## About Me
 ### Im 21 years old. Im new to the coding world. I'm currently in the process of becoming a software developer. I'm taking different small courses in personal time out of work to learn different coding languages.
